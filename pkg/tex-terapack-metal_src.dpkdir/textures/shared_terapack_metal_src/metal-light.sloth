@@ -1,0 +1,7 @@
+# This is a configuration file for the Sloth shader generator
+
+[options]
+predefLights = 512
+
+[addKeywords]
+surfaceparm = metalsteps
