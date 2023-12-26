@@ -1,0 +1,3108 @@
+
+textures/terapack/misc/misc_1
+{
+    qer_editorimage textures/terapack/misc/pattern_17_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_17_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_17_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_17_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_2
+{
+    qer_editorimage textures/terapack/misc/pattern_18_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_18_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_18_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_18_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_3
+{
+    qer_editorimage textures/terapack/misc/pattern_19_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_19_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_19_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_19_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_4
+{
+    qer_editorimage textures/terapack/misc/pattern_20_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_20_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_20_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_20_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_5
+{
+    qer_editorimage textures/terapack/misc/pattern_48_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_48_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_48_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_48_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_6
+{
+    qer_editorimage textures/terapack/misc/pattern_49_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_49_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_49_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_49_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_7
+{
+    qer_editorimage textures/terapack/misc/pattern_54_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_54_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_54_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_54_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_8
+{
+    qer_editorimage textures/terapack/misc/pattern_55_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_55_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_55_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_55_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_9
+{
+    qer_editorimage textures/terapack/misc/pattern_56_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_56_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_56_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_56_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_10
+{
+    qer_editorimage textures/terapack/misc/pattern_63_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_63_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_63_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_63_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_11
+{
+    qer_editorimage textures/terapack/misc/pattern_82_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_82_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_82_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_82_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_12
+{
+    qer_editorimage textures/terapack/misc/pattern_83_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_83_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_83_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_83_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_13
+{
+    qer_editorimage textures/terapack/misc/pattern_84_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_84_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_84_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_84_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_14
+{
+    qer_editorimage textures/terapack/misc/pattern_86_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_86_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_86_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_86_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_15
+{
+    qer_editorimage textures/terapack/misc/pattern_94_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_94_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_94_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_94_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_16
+{
+    qer_editorimage textures/terapack/misc/pattern_95_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_95_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_95_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_95_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_17
+{
+    qer_editorimage textures/terapack/misc/pattern_96_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_96_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_96_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_96_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_18
+{
+    qer_editorimage textures/terapack/misc/pattern_97_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_97_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_97_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_97_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_19
+{
+    qer_editorimage textures/terapack/misc/pattern_98_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_98_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_98_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_98_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_20
+{
+    qer_editorimage textures/terapack/misc/pattern_119_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_119_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_119_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_119_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_21
+{
+    qer_editorimage textures/terapack/misc/pattern_120_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_120_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_120_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_120_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_22
+{
+    qer_editorimage textures/terapack/misc/pattern_121_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_121_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_121_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_121_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_23
+{
+    qer_editorimage textures/terapack/misc/pattern_122_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_122_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_122_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_122_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_24
+{
+    qer_editorimage textures/terapack/misc/pattern_123_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_123_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_123_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_123_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_25
+{
+    qer_editorimage textures/terapack/misc/pattern_124_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_124_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_124_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_124_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_26
+{
+    qer_editorimage textures/terapack/misc/pattern_128_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_128_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_128_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_128_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_27
+{
+    qer_editorimage textures/terapack/misc/pattern_129_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_129_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_129_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_129_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_28
+{
+    qer_editorimage textures/terapack/misc/pattern_130_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_130_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_130_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_130_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_29
+{
+    qer_editorimage textures/terapack/misc/pattern_139_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_139_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_139_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_139_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_30
+{
+    qer_editorimage textures/terapack/misc/pattern_140_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_140_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_140_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_140_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_31
+{
+    qer_editorimage textures/terapack/misc/pattern_141_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_141_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_141_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_141_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_32
+{
+    qer_editorimage textures/terapack/misc/pattern_142_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_142_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_142_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_142_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_33
+{
+    qer_editorimage textures/terapack/misc/pattern_143_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_143_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_143_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_143_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_34
+{
+    qer_editorimage textures/terapack/misc/pattern_144_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_144_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_144_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_144_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_35
+{
+    qer_editorimage textures/terapack/misc/pattern_145_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_145_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_145_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_145_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_36
+{
+    qer_editorimage textures/terapack/misc/pattern_146_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_146_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_146_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_146_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_37
+{
+    qer_editorimage textures/terapack/misc/pattern_148_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_148_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_148_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_148_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_38
+{
+    qer_editorimage textures/terapack/misc/pattern_154_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_154_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_154_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_154_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_39
+{
+    qer_editorimage textures/terapack/misc/pattern_155_diffuse.tga
+    surfaceparam trans
+    {
+        map textures/terapack/misc/pattern_155_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_155_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_155_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_40
+{
+    qer_editorimage textures/terapack/misc/pattern_156_diffuse.tga
+    surfaceparam trans
+    {
+        map textures/terapack/misc/pattern_156_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_156_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_156_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_41
+{
+    qer_editorimage textures/terapack/misc/pattern_157_diffuse.tga
+    surfaceparam trans
+    {
+        map textures/terapack/misc/pattern_157_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_157_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_157_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_42
+{
+    qer_editorimage textures/terapack/misc/pattern_158_diffuse.tga
+    surfaceparam trans
+    {
+        map textures/terapack/misc/pattern_158_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_158_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_158_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_43
+{
+    qer_editorimage textures/terapack/misc/pattern_159_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_159_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_159_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_159_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_44
+{
+    qer_editorimage textures/terapack/misc/pattern_160_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_160_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_160_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_160_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_45
+{
+    qer_editorimage textures/terapack/misc/pattern_161_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_161_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_161_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_161_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_46
+{
+    qer_editorimage textures/terapack/misc/pattern_162_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_162_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_162_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_162_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_47
+{
+    qer_editorimage textures/terapack/misc/pattern_169_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_169_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_169_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_169_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_48
+{
+    qer_editorimage textures/terapack/misc/pattern_170_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_170_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_170_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_170_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_49
+{
+    qer_editorimage textures/terapack/misc/pattern_171_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_171_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_171_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_171_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_50
+{
+    qer_editorimage textures/terapack/misc/pattern_172_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_172_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_172_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_172_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_51
+{
+    qer_editorimage textures/terapack/misc/pattern_173_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_173_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_173_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_173_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_52
+{
+    qer_editorimage textures/terapack/misc/pattern_179_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_179_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_179_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_179_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_53
+{
+    qer_editorimage textures/terapack/misc/pattern_180_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_180_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_180_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_180_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_54
+{
+    qer_editorimage textures/terapack/misc/pattern_183_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_183_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_183_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_183_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_55
+{
+    qer_editorimage textures/terapack/misc/pattern_184_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_184_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_184_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_184_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_56
+{
+    qer_editorimage textures/terapack/misc/pattern_185_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_185_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_185_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_185_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_57
+{
+    qer_editorimage textures/terapack/misc/pattern_186_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_186_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_186_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_186_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_58
+{
+    qer_editorimage textures/terapack/misc/pattern_187_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_187_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_187_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_187_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_59
+{
+    qer_editorimage textures/terapack/misc/pattern_188_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_188_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_188_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_188_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/misc_60
+{
+    qer_editorimage textures/terapack/misc/pattern_189_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_189_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_189_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_189_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_61
+{
+    qer_editorimage textures/terapack/misc/pattern_190_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_190_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_190_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_190_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_62
+{
+    qer_editorimage textures/terapack/misc/pattern_191_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_191_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_191_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_191_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_63
+{
+    qer_editorimage textures/terapack/misc/pattern_190_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_190_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_190_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_190_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_64
+{
+    qer_editorimage textures/terapack/misc/pattern_193_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_193_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_193_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_193_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/misc_65
+{
+    qer_editorimage textures/terapack/misc/pattern_201_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_201_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_201_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_201_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/pattern_202
+{
+    qer_editorimage textures/terapack/misc/pattern_202_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_202_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_202_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_202_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/pattern_203
+{
+    qer_editorimage textures/terapack/misc/pattern_203_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_203_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_203_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_203_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_205
+{
+    qer_editorimage textures/terapack/misc/pattern_205_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_205_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_205_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_205_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_206
+{
+    qer_editorimage textures/terapack/misc/pattern_206_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_206_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_206_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_206_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_207
+{
+    qer_editorimage textures/terapack/misc/pattern_207_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_207_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_207_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_207_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_208
+{
+    qer_editorimage textures/terapack/misc/pattern_208_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_208_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_208_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_208_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_209
+{
+    qer_editorimage textures/terapack/misc/pattern_209_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_209_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_209_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_209_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_210
+{
+    qer_editorimage textures/terapack/misc/pattern_210_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_210_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_210_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_210_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_211
+{
+    qer_editorimage textures/terapack/misc/pattern_211_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_211_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_211_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_211_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_212
+{
+    qer_editorimage textures/terapack/misc/pattern_212_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_212_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_212_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_212_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_213
+{
+    qer_editorimage textures/terapack/misc/pattern_213_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_213_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_213_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_213_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_214
+{
+    qer_editorimage textures/terapack/misc/pattern_214_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_214_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_214_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_214_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_235
+{
+    qer_editorimage textures/terapack/misc/pattern_235_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_235_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_235_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_235_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/pattern_236
+{
+    qer_editorimage textures/terapack/misc/pattern_236_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_236_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_236_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_236_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_237
+{
+    qer_editorimage textures/terapack/misc/pattern_237_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_237_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_237_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_237_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_238
+{
+    qer_editorimage textures/terapack/misc/pattern_238_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_238_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_238_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_238_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_239
+{
+    qer_editorimage textures/terapack/misc/pattern_239_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_239_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_239_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_239_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_245
+{
+    qer_editorimage textures/terapack/misc/pattern_245_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_245_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_245_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_245_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_246
+{
+    qer_editorimage textures/terapack/misc/pattern_246_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_246_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_246_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_246_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_247
+{
+    qer_editorimage textures/terapack/misc/pattern_247_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_247_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_247_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_247_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_248
+{
+    qer_editorimage textures/terapack/misc/pattern_248_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_248_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_248_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_248_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_249
+{
+    qer_editorimage textures/terapack/misc/pattern_249_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_249_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_249_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_249_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_251
+{
+    qer_editorimage textures/terapack/misc/pattern_251_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_251_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_251_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_251_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_252
+{
+    qer_editorimage textures/terapack/misc/pattern_252_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_252_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_252_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_252_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_255
+{
+    qer_editorimage textures/terapack/misc/pattern_255_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_255_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_255_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_255_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_256
+{
+    qer_editorimage textures/terapack/misc/pattern_256_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_256_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_256_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_256_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_257
+{
+    qer_editorimage textures/terapack/misc/pattern_257_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_257_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_257_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_257_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_258
+{
+    qer_editorimage textures/terapack/misc/pattern_258_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_258_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_258_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_258_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_259
+{
+    qer_editorimage textures/terapack/misc/pattern_259_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_249_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_249_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_249_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_266
+{
+    qer_editorimage textures/terapack/misc/pattern_266_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_266_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_266_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_266_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_267
+{
+    qer_editorimage textures/terapack/misc/pattern_267_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_267_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_267_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_267_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_268
+{
+    qer_editorimage textures/terapack/misc/pattern_268_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_268_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_268_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_268_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_269
+{
+    qer_editorimage textures/terapack/misc/pattern_269_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_269_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_269_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_269_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_270
+{
+    qer_editorimage textures/terapack/misc/pattern_270_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_270_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_270_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_270_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_273
+{
+    qer_editorimage textures/terapack/misc/pattern_273_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_273_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_273_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_273_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_276
+{
+    qer_editorimage textures/terapack/misc/pattern_276_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_276_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_276_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_276_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_278
+{
+    qer_editorimage textures/terapack/misc/pattern_278_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_278_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_278_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_278_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_282
+{
+    qer_editorimage textures/terapack/misc/pattern_282_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_282_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_282_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_282_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_283
+{
+    qer_editorimage textures/terapack/misc/pattern_283_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_283_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_283_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_283_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_285
+{
+    qer_editorimage textures/terapack/misc/pattern_285_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_285_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_285_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_285_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_286
+{
+    qer_editorimage textures/terapack/misc/pattern_286_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_286_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_286_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_286_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_287
+{
+    qer_editorimage textures/terapack/misc/pattern_287_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_287_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_287_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_287_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_290
+{
+    qer_editorimage textures/terapack/misc/pattern_290_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_290_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_290_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_290_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_291
+{
+    qer_editorimage textures/terapack/misc/pattern_291_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_291_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_291_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_291_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_292
+{
+    qer_editorimage textures/terapack/misc/pattern_292_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_292_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_292_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_292_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/pattern_293
+{
+    qer_editorimage textures/terapack/misc/pattern_293_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_293_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_293_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_293_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/pattern_294
+{
+    qer_editorimage textures/terapack/misc/pattern_294_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_294_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_294_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/misc/pattern_294_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/pattern_295
+{
+    qer_editorimage textures/terapack/misc/pattern_295_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_295_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_295_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_296
+{
+    qer_editorimage textures/terapack/misc/pattern_296_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_296_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_296_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+
+textures/terapack/misc/pattern_297
+{
+    qer_editorimage textures/terapack/misc/pattern_297_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_297_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_297_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_298
+{
+    qer_editorimage textures/terapack/misc/pattern_298_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_298_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_298_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_299
+{
+    qer_editorimage textures/terapack/misc/pattern_299_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_299_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_299_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_300
+{
+    qer_editorimage textures/terapack/misc/pattern_300_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_300_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_300_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_301
+{
+    qer_editorimage textures/terapack/misc/pattern_301_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_301_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_301_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_302
+{
+    qer_editorimage textures/terapack/misc/pattern_302_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_302_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_302_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_303
+{
+    qer_editorimage textures/terapack/misc/pattern_303_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_303_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_303_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_304
+{
+    qer_editorimage textures/terapack/misc/pattern_304_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_304_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_304_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_305
+{
+    qer_editorimage textures/terapack/misc/pattern_305_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_305_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_305_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_306
+{
+    qer_editorimage textures/terapack/misc/pattern_306_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_306_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_306_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_307
+{
+    qer_editorimage textures/terapack/misc/pattern_307_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_307_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_307_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_308
+{
+    qer_editorimage textures/terapack/misc/pattern_308_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_308_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_308_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_348
+{
+    qer_editorimage textures/terapack/misc/pattern_348_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_348_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_348_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_355
+{
+    qer_editorimage textures/terapack/misc/pattern_355_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_355_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_355_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_356
+{
+    qer_editorimage textures/terapack/misc/pattern_356_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_356_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_356_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_357
+{
+    qer_editorimage textures/terapack/misc/pattern_357_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_357_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_357_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_378
+{
+    qer_editorimage textures/terapack/misc/pattern_378_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_378_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_378_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_379
+{
+    qer_editorimage textures/terapack/misc/pattern_379_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_379_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_379_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_382
+{
+    qer_editorimage textures/terapack/misc/pattern_382_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_382_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_382_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_383
+{
+    qer_editorimage textures/terapack/misc/pattern_383_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_383_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_383_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_384
+{
+    qer_editorimage textures/terapack/misc/pattern_384_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_384_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_384_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_385
+{
+    qer_editorimage textures/terapack/misc/pattern_385_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_385_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_385_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_386
+{
+    qer_editorimage textures/terapack/misc/pattern_386_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_386_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_386_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_387
+{
+    qer_editorimage textures/terapack/misc/pattern_387_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_387_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_387_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_388
+{
+    qer_editorimage textures/terapack/misc/pattern_388_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_388_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_388_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_389
+{
+    qer_editorimage textures/terapack/misc/pattern_389_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_389_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_389_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}
+textures/terapack/misc/pattern_390
+{
+    qer_editorimage textures/terapack/misc/pattern_390_diffuse.tga
+    {
+        map textures/terapack/misc/pattern_390_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/misc/pattern_390_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+}

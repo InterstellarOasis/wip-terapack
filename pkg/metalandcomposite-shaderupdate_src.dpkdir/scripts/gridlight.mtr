@@ -1,0 +1,32 @@
+
+textures/terapack/metalic/metalic_19
+{
+    qer_editorimage textures/terapack/metalic/pattern_26_diffuse.tga
+    surfaceparm metalsteps
+    q3map_surfaceLight 512
+    q3map_lightimage textures/terapack/metalic/pattern_26_glow.tga
+    {
+        map textures/terapack/metalic/pattern_26_diffuse.tga
+    }
+    {
+        stage normalparallaxmap
+        map textures/terapack/metalic/pattern_26_normal.tga
+        normalScale 1 1
+        parallaxDepth 0.05
+    }
+    {
+        stage specularmap
+        map textures/terapack/metalic/pattern_26_specular.tga
+        specularReflectance 0.4
+        specularExponent 256
+    }
+    {
+        map $lightmap
+        blendfunc GL_DST_COLOR GL_ZERO
+    }
+    {
+        map textures/terapack/metalic/pattern_26_glow.tga
+        blendfunc GL_ONE GL_ONE
+        rgbgen wave triangle 0.5 0.5 0.0 1.0
+    }
+}
